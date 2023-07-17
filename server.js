@@ -1,7 +1,8 @@
 const express = require('express');
 const path = require('path');
-const api = require('./js/index.js');
-const {v4: uuid} = require('uuid');
+
+// Import the feedback router
+const api = require('./routes/index.js');
 
 const PORT = 3001;
 
