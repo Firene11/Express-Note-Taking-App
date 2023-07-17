@@ -15,6 +15,8 @@ This application uses express.js to create a Note Taker that can be used to writ
 ## Installation
 This app is deployed to Heroku.
 
+(https://calm-taiga-62101-01a8971ea8e8.herokuapp.com/notes)
+
 ## Usage
 When you open the Note Taker, you are presented with a landing page with a link to a notes page. 
 
