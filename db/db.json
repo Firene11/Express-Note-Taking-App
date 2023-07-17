@@ -1,6 +1,17 @@
 [
     {
-        "title":"Call Mom",
-        "text":"Plan family bbq"
+        "title": "Call Mom",
+        "text": "Plan family bbq",
+        "note_id": "fguy"
+    },
+    {
+        "title": "Make Soup",
+        "text": "Make portions of soup and freeze for later",
+        "note_id": "cfde"
+    },
+    {
+        "title": "Clean house",
+        "text": "sweep and mop floors, dust shelves",
+        "note_id": "43b7"
     }
 ]
