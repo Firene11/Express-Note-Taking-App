@@ -2,16 +2,16 @@
     {
         "title": "Call Mom",
         "text": "Plan family bbq",
-        "note_id": "fguy"
+        "id": "fguy"
     },
     {
         "title": "Make Soup",
         "text": "Make portions of soup and freeze for later",
-        "note_id": "cfde"
+        "id": "cfde"
     },
     {
         "title": "Clean house",
         "text": "sweep and mop floors, dust shelves",
-        "note_id": "43b7"
+        "id": "43b7"
     }
 ]
