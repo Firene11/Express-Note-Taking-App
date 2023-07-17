@@ -1,4 +1,4 @@
-const tips = require('express').Router();
+const notes = require('express').Router();
 const uuid = require('../helpers/uuid');
 
 // Helper functions for reading and writing to the JSON file
@@ -14,11 +14,10 @@ notes.get('/', (req, res) => {
 notes.post('/', (req, res) => {
   console.info(`${req.method} request received to add a note`);
 
-  const { username, title, text } = req.body;
+  const { title, text } = req.body;
 
   if (req.body) {
     const newNote = {
-      username,
       title,
       text,
       note_id: uuid(),
