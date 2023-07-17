@@ -18,5 +18,10 @@
         "title": "New Note",
         "text": "I love express",
         "id": "c94a"
+    },
+    {
+        "title": "Finish weather app",
+        "text": "Some day when i have more time! I swear I'll get it!",
+        "id": "1a5d"
     }
 ]
