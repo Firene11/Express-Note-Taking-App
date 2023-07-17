@@ -4,7 +4,7 @@ const path = require('path');
 // Import the feedback router
 const api = require('./routes/index.js');
 
-const PORT = 3001;
+const PORT = process.env.PORT || 3001
 
 const app = express();
 
@@ -27,7 +27,8 @@ res.sendFile(path.join(__dirname, './public/notes.html'))
 );
 
 app.listen(PORT, () =>
-  console.log(`App listening at http://localhost:${PORT} `)
+  console.log(`Note Taker listening at http://localhost:${PORT} `)
 );
+
 
 
