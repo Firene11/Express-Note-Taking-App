@@ -26,6 +26,11 @@ When you click on an existing note in the list in the left-hand column, the note
 
 ## Screenshots
 
+![Application](Assets/s_shot1.jpg) 
+![Application](Assets/s_shot2.jpg) 
+![Application](Assets/s_shot3.jpg) 
+
+
 ## Credits
 
 ## Tests
